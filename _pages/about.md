@@ -43,7 +43,6 @@ comments: true
 <div class="sticky-top sticky-top-80">
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/logo4.png" alt="jekyll template mediumish" /></p>
-
 <p><a target="_blank" href="https://orcid.org/0000-0002-5542-3065">OrcID <i class="ai ai-orcid"></i>: 0000-0002-5542-3065</a>.</p>
 
 <p> <a href="tel:+45 26742979 ">+45 26742979</a> &#124; <a href="mailto:anderskm@ikl.aau.dk">anderskm@ikl.aau.dk</a> </p>
