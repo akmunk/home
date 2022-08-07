@@ -46,7 +46,7 @@ comments: true
 
 <p> <a href="tel:+45 26742979 ">+45 26742979</a> &#124; <a href="mailto:anderskm@ikl.aau.dk">anderskm@ikl.aau.dk</a> </p>
 
-<p>Connect via <a target="_blank" href="https://twitter.com/AndersKMunk">Twitter <i class="fab fa-twitter"></i></a>, <a target="_blank" href="https://www.linkedin.com/in/akmunk/">LinkedIn <i class="fab fa-linkedin"></i></a>, <a target="_blank" href="https://scholar.google.com/citations?user=zMNHCokAAAAJ">Google Scholar <i class="ai ai-google-scholar"></i></a>.</p>
+<p>Follow me on <a target="_blank" href="https://twitter.com/AndersKMunk">Twitter <i class="fab fa-twitter"></i></a> &#124; <a target="_blank" href="https://www.linkedin.com/in/akmunk/">LinkedIn <i class="fab fa-linkedin"></i></a> &#124; <a target="_blank" href="https://scholar.google.com/citations?user=zMNHCokAAAAJ">Google Scholar <i class="ai ai-google-scholar"></i></a>.</p>
 
 <a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
 
