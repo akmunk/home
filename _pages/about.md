@@ -43,7 +43,7 @@ comments: true
 
 <p>Born 1980 in Copenhagen, Denmark.</p>
 
-<p> +45 26742979 &#124; anderskm@ikl.aau.dk </p>
+<p> +45 26742979 &#124; <a href="mailto:anderskm@ikl.aau.dk">anderskm@ikl.aau.dk</a> </p>
 
 <p>Follow me on <a target="_blank" href="https://twitter.com/AndersKMunk">Twitter <i class="fa fa-twitter"></i></a>.</p>
 
