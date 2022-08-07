@@ -41,7 +41,6 @@ comments: true
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Anders Kristian Munk</h5>
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/logo4.png" alt="jekyll template mediumish" /></p>
 
