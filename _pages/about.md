@@ -50,7 +50,7 @@ comments: true
 
 <p>Follow me on <a target="_blank" href="https://twitter.com/AndersKMunk">Twitter <i class="fab fa-twitter"></i></a>.</p>
 
-<p>Follow me on <a target="_blank" href="https://twitter.com/AndersKMunk">Twitter <i class="ai ai-google-scholar-square ai-1.5x"></i></a>.</p>
+<p>Follow me on <a target="_blank" href="https://twitter.com/AndersKMunk">Twitter <i class="ai ai-google-scholar-square ai-2x"></i></a>.</p>
 
 <a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
 
