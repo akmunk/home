@@ -45,7 +45,7 @@ comments: true
 
 <p> +45 26742979 &#124; <a href="mailto:anderskm@ikl.aau.dk">anderskm@ikl.aau.dk</a> </p>
 
-<p>Follow me on <a target="_blank" href="https://twitter.com/AndersKMunk">Twitter <i class="fa fa-twitter"></i></a>.</p>
+<p>Follow me on <a target="_blank" href="https://twitter.com/AndersKMunk">Twitter <i class="fab fa-twitter"></i></a>.</p>
 
 <a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
 
