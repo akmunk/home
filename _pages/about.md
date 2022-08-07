@@ -43,7 +43,7 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <h5>Anders Kristian Munk</h5>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/logo4.png" alt="jekyll template mediumish" /></p>
 
 <p><a target="_blank" href="https://orcid.org/0000-0002-5542-3065">OrcID <i class="ai ai-orcid"></i></a>: 0000-0002-5542-3065.</p>
 
