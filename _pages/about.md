@@ -46,7 +46,7 @@ comments: false
 
 <p><a target="_blank" href="https://twitter.com/AndersKMunk">Twitter <i class="fab fa-twitter"></i></a> &#124; <a target="_blank" href="https://www.linkedin.com/in/akmunk/">LinkedIn <i class="fab fa-linkedin"></i></a> &#124; <a target="_blank" href="https://scholar.google.com/citations?user=zMNHCokAAAAJ">Scholar <i class="ai ai-google-scholar"></i></a> &#124; <a target="_blank" href="https://open.spotify.com/artist/4ZiE8tzaRquJl7KPoZXNnQ?si=X05TEs6cR_6ywxuC2SlNAQ">Spotify <i class="fab fa-spotify"></i></a></p>
 
-<p> <a href="tel:+45 26742979">+45 26742979 <i class="fab fa-phone"></i></a> &#124; <a href="mailto:anderskm@ikl.aau.dk">anderskm@ikl.aau.dk <i class="fab fa-envelope"></i></a> </p>
+<p> <a href="tel:+45 26742979">+45 26742979 <i class="fa fa-phone"></i></a> &#124; <a href="mailto:anderskm@ikl.aau.dk">anderskm@ikl.aau.dk <i class="fab fa-envelope"></i></a> </p>
 
 <p><a target="_blank" href="https://orcid.org/0000-0002-5542-3065">OrcID <i class="ai ai-orcid"></i>: 0000-0002-5542-3065</a></p>
 
