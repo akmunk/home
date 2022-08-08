@@ -13,6 +13,13 @@ comments: false
 <a target="_blank" href="https://vbn.aau.dk/en/persons/126983">Associate professor, DPhil, director of the Techno-Anthropology Lab</a></p>
 
 <h4>Experience</h4>
+<p>2014-present: <b>Associate professor</b>, Department of Culture & Learning, Aalborg University</p>
+<ul>
+  <li>Teaching, course development, and semester coordination on the MSc and BSc programs in Techno-Anthropology as well as the Master in Data-Driven Organizational Development. Main focus on ethnographic methods, digital controversy mapping, participatory data design, and computational SSH.</li>
+  <li>Numerous research collaborations with external organizations and academic partners focussed on exploring the integration of digital and computational methods in different SSH practices</li>
+  <li>Research and publication activity focussed on experiments with machine learning and explorative data analysis in anthropology/ethnography, participatory data design, and the first book comprehensive introduction to controversy mapping in the form of a book on Polity Press.</li>
+</ul>  
+
 <ul>
   <li>2014-present: <b>Associate professor</b>, Department of Culture & Learning, Aalborg University</li>
   <li>2015-present: <b>Director of the Techno-Anthropology Lab</b>, Department of Culture & Learning, Aalborg University</li>
