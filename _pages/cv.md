@@ -30,19 +30,14 @@ comments: false
 
 <h4>Education</h4>
 <ul>
-  <li>2014-current: <b>Associate professor</b>, Department of Culture & Learning, Aalborg University</li>
-  <li>2015-:current <b>Director of the Techno-Anthropology Lab</b>, Department of Culture & Learning, Aalborg University</li>
-  <li>2017-current: <b>Partner and co-founder</b>, Backscatter</li>
-  <li>2013-2015: <b>Senior visiting research fellow</b>, médialab, SciencesPo</li>
-  <li>2012-2014: <b>Assistant professor</b>, Department of Culture & Learning, Aalborg University</li>
-  <li>2010-2012: <b>Assistant professor</b>, Department of Management, Danish Technical University</li>
-  <li>2010-2012: <b>Visitng researcher</b>, School of Geography and the Environment, University of Oxford</li>
-  <li>2007-2010: <b>Doctoral student</b>, School of Geography and the Environment, University of Oxford</li>
-  <li>2006-2007: <b>Research assistant</b>, The Saxo Institute, University of Copenhagen</li>
-  <li>2006-2007: <b>Teaching assistant</b>, history of technology, Danish Tecnical University</li>
-  <li>2005-2006: <b>Intern</b>, Copenhagen Institute for Futures Studies</li>
-  <li>2004-2006: <b>Teaching assistant</b>, Department of Ethnology and Archaeology, University of Copenhagen</li>
+  <li><b>DPhil (geography)</b>, University of Oxford, 2010</li>
+  <li><b>MA (ethnology)</b>, University of Copenhagen, 2006</li>
+  <li><b>BA (ethnology)</b>, University of Copenhagen, 2004</li>
 </ul>  
+
+<h4>Research funding</h4>
+
+
 <p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
 
 </div>
