@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum vitae
+title: CURRICULUM VITAE
 permalink: /cv
 comments: false
 ---
@@ -9,10 +9,10 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p><i>Born 1980</i></p>
-<p>Associate professor, DPhil</p>
+<p>Born 1980, Copenhagen, Denmark</p>
+<p><a target="_blank" href="https://vbn.aau.dk/en/persons/126983">Associate professor, DPhil, director of the Techno-Anthropology Lab <i class="fab fa-twitter"></i></a></p>
 
-<h4>Employment</h4>
+<h5>Employment</h5>
 
 <ul>
   <li>2014-current: <b>Associate professor</b>, Department of Culture & Learning, Aalborg University</li>
