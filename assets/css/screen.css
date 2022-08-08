@@ -337,7 +337,7 @@ span.post-read-more a:hover {
 }
 
 blockquote {
-    border-left: 4px solid #00ab6b;
+    border-left: 4px solid #EB7F86;
     padding: 0 20px;
     font-style: italic;
     color: rgba(0, 0, 0, .5);
@@ -373,7 +373,7 @@ blockquote {
 }
 
 .share ul li i.fa {
-    border: 1px solid #ddd;
+    border: 1px solid #5C53A5;
     width: 30px;
     height: 30px;
     line-height: 30px;
@@ -432,7 +432,7 @@ blockquote {
     .alertbar input[type="email"] {
         margin-right: 0px !Important;
         display: block;
-        border-right: 1px solid #ddd !Important;
+        border-right: 1px solid #5C53A5 !Important;
         margin-bottom: 10px;
     }
 
@@ -525,8 +525,8 @@ ul.tags li a:hover {
 }
 
 .btn.follow {
-    border-color: #02B875;
-    color: #1C9963;
+    border-color: #A059A0;
+    color: #CE6693;
     padding: 3px 10px;
     text-align: center;
     border-radius: 999em;
@@ -535,8 +535,8 @@ ul.tags li a:hover {
 }
 
 .btn.subscribe {
-    background-color: #1C9963;
-    border-color: #1C9963;
+    background-color: #EB7F86;
+    border-color: #CE6693;
     color: rgba(255, 255, 255, 1);
     fill: rgba(255, 255, 255, 1);
     border-radius: 30px;
@@ -572,7 +572,7 @@ ul.tags li a:hover {
     padding: 3px 5px 3px 10px;
     border-top-left-radius: 3px;
     border-bottom-left-radius: 3px;
-    border: 1px solid #ddd;
+    border: 1px solid #5C53A5;
     border-right: 0;
     margin-right: -10px;
     height: 34px;
@@ -581,8 +581,8 @@ ul.tags li a:hover {
 }
 
 .alertbar input[type="submit"] {
-    background-color: #1C9963;
-    border: 1px solid #1C9963;
+    background-color: #A059A0;
+    border: 1px solid #A059A0;
     color: rgba(255, 255, 255, 1);
     fill: rgba(255, 255, 255, 1);
     font-size: 0.85rem;
@@ -657,8 +657,8 @@ ul.tags li a:hover {
 }
 
 .sociallinks a {
-    background: #666;
-    color: #fff;
+    background: #5C53A5;
+    color: #A059A0;
     width: 22px;
     height: 22px;
     display: inline-block;
@@ -764,7 +764,7 @@ iframe {
 
 .transpdark {
     background: rgba(0, 0, 0, 0.75);
-    color: #fff;
+    color: #5C53A5;
 }
 
 @media (min-width:768px) {
@@ -780,7 +780,7 @@ iframe {
 
     .jumbotron.fortags .col-md-4 {
         background: rgba(0, 0, 0, 0.75);
-        color: #fff;
+        color: #5C53A5;
     }
 
     .jumbotron.fortags .row {
@@ -800,7 +800,7 @@ iframe {
     padding: 5px 10px 7px;
     background: #222;
     border-radius: 30px;
-    color: #fff;
+    color: #5C53A5;
     font-weight: 500;
     text-transform: lowercase;
     font-size: 0.8rem;
@@ -868,7 +868,7 @@ iframe {
     left: calc(50% - 100px);
     text-shadow: none;
     background: #222;
-    color: #fff;
+    color: #5C53A5;
     display: inline-block;
     font-size: 13px;
     line-height: 1;
