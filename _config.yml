@@ -1,7 +1,7 @@
 # Site
 name: "Anders Kristian Munk"
 title: "Anders Kristian Munk"
-description: "My website"
+description: "Controversy mapping, digital methods, computational anthropology, whale punk, etc."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: '/home'
