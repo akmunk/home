@@ -10,28 +10,23 @@ comments: false
 <div class="col-md-8 pr-5">
 
 
-<h4>Peer reviewed papers</h4>
+<h4>Peer reviewed books</h4>
 
 <ul>
-  <li>2014-: <b>Associate professor</b>, Department of Culture & Learning, Aalborg University</li>
-  <li>2015-: <b>Director of the Techno-Anthropology Lab</b>, Department of Culture & Learning, Aalborg University</li>
-  <li>2017-: <b>Partner and co-founder</b>, Backscatter</li>
-  <li>2013-2015: <b>Senior visiting research fellow</b>, médialab, SciencesPo</li>
-  <li>2012-2014: <b>Assistant professor</b>, Department of Culture & Learning, Aalborg University</li>
-  <li>2010-2012: <b>Assistant professor</b>, Department of Management, Danish Technical University</li>
-  <li>2010-2012: <b>Visitng researcher</b>, School of Geography and the Environment, University of Oxford</li>
-  <li>2007-2010: <b>Doctoral student</b>, School of Geography and the Environment, University of Oxford</li>
-  <li>2006-2007: <b>Research assistant</b>, The Saxo Institute, University of Copenhagen</li>
-  <li>2006-2007: <b>Teaching assistant</b>, history of technology, Danish Tecnical University</li>
-  <li>2005-2006: <b>Intern</b>, Copenhagen Institute for Futures Studies</li>
-  <li>2004-2006: <b>Teaching assistant</b>, Department of Ethnology and Archaeology, University of Copenhagen</li>
+  <li>MADSEN, A.K. & MUNK, A.K. (forthcoming). Handbook of Digital and Computatinol Research, Edward Elgar.</li>
+  <li>VENTURINI, T. & MUNK, A. K. (2021). Controversy Mapping: A Field Guide, Cambridge: Polity Press.</li>
+  <li>BIKRBAK, A. & MUNK, A.K. (2017). Digitale Metoder, København: Hans Retizels Forlag. </li>
+  <li>MUNK, A.K. (2010) ”Risking the Flood: Cartographies of Things to Come”, D.Phil. thesis, University of Oxford.</li>
 </ul>  
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+<h4>Papers in peer reviewed journals</h4>
 
-<h4>Questions or bug reports?</h4>
-
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<ul>
+  <li>MUNK, A.K., KNUDSEN, A.G., JACOMY, M. (2022). The Thick Machine: An Experiment in Computational Thick Description. Big Data & Society.</li>
+  <li>WINTHEREIK, B. R., de NEERGÅRD, K. P., & MUNK, A. K. (2020). Når virkeligheden rystes i sin grundvold – effekter af nedlukningen. Samfundøkonomen, 2020(4), 70-76.</li>
+  <li>MUNK, A. K. & OLESEN, A. (2020). Beyond Issue Publics: Curating a Corpus of Generic Danish Facebook Debate for Controversy Mapping, STS Encounters, vol.11, issue 1.</li>
+  <li>BORCH, K., MUNK, A. K., & DAHLGAARD, V. (2020). Mapping wind-power controversies on social media: Facebook as a powerful mobilizer of local resistance, Energy Policy, issue 138.</li>
+</ul>  
 
 </div>
 
