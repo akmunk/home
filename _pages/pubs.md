@@ -13,10 +13,10 @@ comments: false
 <h4>Peer reviewed books</h4>
 
 <ul>
-  <li>Madsen, A.K. & Munk, A.K. (forthcoming). <b>Handbook of Digital and Computatinol Research</b>, Edward Elgar.</li>
-  <li>VENTURINI, T. & MUNK, A. K. (2021). <a target="_blank" href="https://books.google.dk/books?id=eo1SEAAAQBAJ&lpg=PP1&pg=PP1#v=onepage&q&f=false"><b>AControversy Mapping: A Field Guide</b></a>, Cambridge: Polity Press.</li>
-  <li>BIKRBAK, A. & MUNK, A.K. (2017). <a target="_blank" href="https://hansreitzel.dk/products/digitale-metoder-bog-36249-9788741258218">Digitale Metoder</a>, København: Hans Retizels Forlag. </li>
-  <li>MUNK, A.K. (2010). <a target="_blank" href="https://ora.ox.ac.uk/objects/uuid:55c2df2e-3506-4a93-8cab-37f133866182/download_file?safe_filename=Munk_RiskingTheFloodORA.pdf&file_format=application%2Fpdf&type_of_work=Thesis">Risking the Flood: Cartographies of Things to Come</a>, D.Phil. thesis, University of Oxford.</li>
+  <li>Madsen, A.K. & Munk, A.K. (forthcoming). Handbook of Digital and Computatinol Research, Edward Elgar.</li>
+  <li>Venturini, T. & Munk, A. K. (2021). <a target="_blank" href="https://books.google.dk/books?id=eo1SEAAAQBAJ&lpg=PP1&pg=PP1#v=onepage&q&f=false">Controversy Mapping: A Field Guide</a>, Cambridge: Polity Press.</li>
+  <li>Birkbak, A. & Munk, A.K. (2017). <a target="_blank" href="https://hansreitzel.dk/products/digitale-metoder-bog-36249-9788741258218">Digitale Metoder</a>, København: Hans Retizels Forlag. </li>
+  <li>Munk, A.K. (2010). <a target="_blank" href="https://ora.ox.ac.uk/objects/uuid:55c2df2e-3506-4a93-8cab-37f133866182/download_file?safe_filename=Munk_RiskingTheFloodORA.pdf&file_format=application%2Fpdf&type_of_work=Thesis">Risking the Flood: Cartographies of Things to Come</a>, D.Phil. thesis, University of Oxford.</li>
 </ul>  
 
 <h4>Papers in peer reviewed journals</h4>
