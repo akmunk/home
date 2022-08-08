@@ -22,10 +22,10 @@ comments: false
 <h4>Papers in peer reviewed journals</h4>
 
 <ul>
-  <li>MUNK, A.K., KNUDSEN, A.G., JACOMY, M. (2022). <a target="_blank" href="https://journals.sagepub.com/doi/full/10.1177/20539517211069891">The Thick Machine: Anthropological AI Between Explanation and Explication</a>, Big Data & Society, 9(1).</li>
-  <li>WINTHEREIK, B. R., de NEERGÅRD, K. P., & MUNK, A. K. (2020). <a target="_blank" href="https://journals.sagepub.com/doi/full/10.1177/20539517211069891">The Thick Machine: Anthropological AI Between Explanation and Explication</a> Når virkeligheden rystes i sin grundvold – effekter af nedlukningen. Samfundøkonomen, 2020(4), 70-76.</li>
-  <li>MUNK, A. K. & OLESEN, A. (2020). <a target="_blank" href="https://journals.sagepub.com/doi/full/10.1177/20539517211069891">The Thick Machine: Anthropological AI Between Explanation and Explication</a>Beyond Issue Publics: Curating a Corpus of Generic Danish Facebook Debate for Controversy Mapping, STS Encounters, vol.11, issue 1.</li>
-  <li>BORCH, K., MUNK, A. K., & DAHLGAARD, V. (2020). <a target="_blank" href="https://journals.sagepub.com/doi/full/10.1177/20539517211069891">The Thick Machine: Anthropological AI Between Explanation and Explication</a>Mapping wind-power controversies on social media: Facebook as a powerful mobilizer of local resistance, Energy Policy, issue 138.</li>
+  <li>Munk, A.K., Knudsen, A.G., Jacomy, M. (2022). <a target="_blank" href="https://journals.sagepub.com/doi/full/10.1177/20539517211069891">The Thick Machine: Anthropological AI Between Explanation and Explication</a>, Big Data & Society, 9(1).</li>
+  <li>Winthereik, B. R., de Neergård, K. P., & Munk, A. K. (2020). <a target="_blank" href="https://tidsskrift.dk/samfundsokonomen/article/view/123563">Når virkeligheden rystes i sin grundvold – effekter af nedlukningen</a>, Samfundøkonomen, 2020(4), 70-76.</li>
+  <li>Munk, A. K. & Olesen, A. (2020). <a target="_blank" href="https://www.dasts.dk/wp-content/uploads/3_Beyond-issues_FV_1.pdf">Beyond Issue Publics: Curating a Corpus of Generic Danish Facebook Debate for Controversy Mapping</a>, STS Encounters, vol.11, issue 1.</li>
+  <li>Borch, K., Munk, A. K., & Dahlgaard, V. (2020). <a target="_blank" href="https://www.sciencedirect.com/science/article/abs/pii/S0301421519308055">Mapping wind-power controversies on social media: Facebook as a powerful mobilizer of local resistance</a>, Energy Policy, issue 138.</li>
 </ul>  
 
 <h4>Chapters in peer reviewed books</h4>
