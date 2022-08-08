@@ -2,7 +2,7 @@
 layout: page
 title: CV
 permalink: /about
-comments: true
+comments: false
 ---
 
 
