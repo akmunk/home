@@ -12,7 +12,7 @@ comments: false
 <p>Born 1980, Copenhagen, Denmark<br>
 <a target="_blank" href="https://vbn.aau.dk/en/persons/126983">Associate professor, DPhil, director of the Techno-Anthropology Lab</a></p>
 
-<h4>Employment (past and present)</h4>
+<h4>Experience</h4>
 <ul>
   <li>2014-present: <b>Associate professor</b>, Department of Culture & Learning, Aalborg University</li>
   <li>2015-present: <b>Director of the Techno-Anthropology Lab</b>, Department of Culture & Learning, Aalborg University</li>
