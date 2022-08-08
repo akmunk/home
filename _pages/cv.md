@@ -9,8 +9,8 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Born 1980, Copenhagen, Denmark</p>
-<p><a target="_blank" href="https://vbn.aau.dk/en/persons/126983">Associate professor, DPhil, director of the Techno-Anthropology Lab <i class="fab fa-twitter"></i></a></p>
+<p>Born 1980, Copenhagen, Denmark<br>
+<a target="_blank" href="https://vbn.aau.dk/en/persons/126983">Associate professor, DPhil, director of the Techno-Anthropology Lab <i class="fab fa-twitter"></i></a></p>
 
 <h5>Employment</h5>
 
