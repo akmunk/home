@@ -26,6 +26,13 @@ comments: false
   <li>Winthereik, B. R., de Neergård, K. P., & Munk, A. K. (2020). <a target="_blank" href="https://tidsskrift.dk/samfundsokonomen/article/view/123563">Når virkeligheden rystes i sin grundvold – effekter af nedlukningen</a>, Samfundøkonomen, 2020(4), 70-76.</li>
   <li>Munk, A. K. & Olesen, A. (2020). <a target="_blank" href="https://www.dasts.dk/wp-content/uploads/3_Beyond-issues_FV_1.pdf">Beyond Issue Publics: Curating a Corpus of Generic Danish Facebook Debate for Controversy Mapping</a>, STS Encounters, vol.11, issue 1.</li>
   <li>Borch, K., Munk, A. K., & Dahlgaard, V. (2020). <a target="_blank" href="https://www.sciencedirect.com/science/article/abs/pii/S0301421519308055">Mapping wind-power controversies on social media: Facebook as a powerful mobilizer of local resistance</a>, Energy Policy, issue 138.</li>
+
+  <li>Munk, A.K. (2019).  <a target="_blank" href="hhttps://www.sciendo.com/article/10.2478/nor-2019-0020">Four styles of quali-quantitative analysis: Making sense of the New Nordic Food movement on the web</a>, Nordicom Review, vol.40, issue 1. BFI: 2.</li>
+  <li>Jensen, T.E., Kleberg Hansen, A. K., Ulijaszek, S., Munk, A. K., Madsen, A. K., Hillersdal, L., & Jespersen, A. P. (2019). <a target="_blank" href="https://vbn.aau.dk/ws/portalfiles/portal/343715803/Identifying_notions_of_obesity.pdf">Identifying notions of environment in obesity research using a mixed‐methods approach</a>, Obesity Reviews, 20(4), 621-630. BFI: 2.</li>
+  <li>Madsen, A.K. & Munk, A.K. (2019). <a target="_blank" href="https://journals.sagepub.com/doi/10.1177/2053951718825357">Experiments with a data-public: moving digital methods into critical proximity with political practice</a>, Big Data & Society. BFI: 2.</li>
+  <li>Munk, A.K. (2018). <a target="_blank" href="https://www.sciencedirect.com/science/article/abs/pii/S0301421519308055">Genanvendt: Et kritisk tilbageblik på digitale metoders konsekvenser for kontroverskortlægningen</a>, Dansk Sociologi, Vol.29 #1. BFI: 1.</li>
+
+
 </ul>  
 
 <h4>Chapters in peer reviewed books</h4>
