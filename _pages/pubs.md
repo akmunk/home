@@ -30,12 +30,14 @@ comments: false
   <li>Jensen, T.E., Kleberg Hansen, A. K., Ulijaszek, S., Munk, A. K., Madsen, A. K., Hillersdal, L., & Jespersen, A. P. (2019). <a target="_blank" href="https://vbn.aau.dk/ws/portalfiles/portal/343715803/Identifying_notions_of_obesity.pdf">Identifying notions of environment in obesity research using a mixed‐methods approach</a>, Obesity Reviews, 20(4), 621-630.</li>
   <li>Madsen, A.K. & Munk, A.K. (2019). <a target="_blank" href="https://journals.sagepub.com/doi/10.1177/2053951718825357">Experiments with a data-public: moving digital methods into critical proximity with political practice</a>, Big Data & Society.</li>
   <li>Munk, A.K. (2018). <a target="_blank" href="https://rauli.cbs.dk/index.php/dansksociologi/article/view/5722">Genanvendt: Et kritisk tilbageblik på digitale metoders konsekvenser for kontroverskortlægningen</a>, Dansk Sociologi, Vol.29 #1.</li>
-
-
   <li>Venturini, T., Munk, A.K., & Jacomy, M. (2018). <a target="_blank" href="https://revistas.pucsp.br/index.php/galaxia/article/view/36645">Ator-rede versus Análise de Redes versus Redes Digitais: falamos das mesmas redes?</a>, Galáxia, (38), 5-27. </li>
   <li>Bach, D., Grundtvig, A., Lofstad, R.I., Mathiasen, A.F., Olesen, A., Birkbak, A., Madsen, A.K., & Munk, A.K. (2018). <a target="_blank" href="https://tidsskrift.dk/politik/article/view/106144">Whack-a-mole: En undersøgelse af falske nyheder og deres økosystem</a>, Tidsskriftet Politik, Vol.21 #1, pp.41-58.</li>
   <li>Munk, A.K., Petersen, M.K., Abildgaard, M.S., & Birkbak, A. (2016). <a target="_blank" href="https://www.researchgate.net/publication/304918866_Re-Appropriating_Instagram_for_Social_Research_Three_Methods_for_Studying_Obesogenic_Environments"> (Re)-Appropriating Instagram for Social Research on Obesity</a>, Social Media + Society.</li>
-  <li>Munk, A.K. (2018). <a target="_blank" href="https://www.sciencedirect.com/science/article/abs/pii/S0301421519308055">Genanvendt: Et kritisk tilbageblik på digitale metoders konsekvenser for kontroverskortlægningen</a>, Dansk Sociologi, Vol.29 #1. BFI: 1.</li>
+  <li>MUNK, A.K. & JENSEN, T.E. (2014). <a target="_blank" href="https://ee.openlibhums.org/article/id/1125/">Revisiting the Histories of Mapping: Is there a future for cartographic ethnology?</a>, Ethnologia Europaea, Vol.44 #2, pp.31-47.</li>
+  <li>Venturini, T., Munk, A.K., & Jacomy, M. (2018). <a target="_blank" href="https://revistas.pucsp.br/index.php/galaxia/article/view/36645">Ator-rede versus Análise de Redes versus Redes Digitais: falamos das mesmas redes?</a>, Galáxia, (38), 5-27. </li>
+  <li>Bach, D., Grundtvig, A., Lofstad, R.I., Mathiasen, A.F., Olesen, A., Birkbak, A., Madsen, A.K., & Munk, A.K. (2018). <a target="_blank" href="https://tidsskrift.dk/politik/article/view/106144">Whack-a-mole: En undersøgelse af falske nyheder og deres økosystem</a>, Tidsskriftet Politik, Vol.21 #1, pp.41-58.</li>
+  <li>Munk, A.K., Petersen, M.K., Abildgaard, M.S., & Birkbak, A. (2016). <a target="_blank" href="https://www.researchgate.net/publication/304918866_Re-Appropriating_Instagram_for_Social_Research_Three_Methods_for_Studying_Obesogenic_Environments"> (Re)-Appropriating Instagram for Social Research on Obesity</a>, Social Media + Society.</li>
+  <li>MUNK, A.K. & JENSEN, T.E. (2014). <a target="_blank" href="https://ee.openlibhums.org/article/id/1125/">Revisiting the Histories of Mapping: Is there a future for cartographic ethnology?</a>, Ethnologia Europaea, Vol.44 #2, pp.31-47.</li>
 
 
 </ul>  
