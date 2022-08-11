@@ -34,7 +34,6 @@ comments: false
   <li>Bach, D., Grundtvig, A., Lofstad, R.I., Mathiasen, A.F., Olesen, A., Birkbak, A., Madsen, A.K., & Munk, A.K. (2018). <a target="_blank" href="https://tidsskrift.dk/politik/article/view/106144">Whack-a-mole: En undersøgelse af falske nyheder og deres økosystem</a>, Tidsskriftet Politik, Vol.21 #1, pp.41-58.</li>
   <li>Munk, A.K., Petersen, M.K., Abildgaard, M.S., & Birkbak, A. (2016). <a target="_blank" href="https://www.researchgate.net/publication/304918866_Re-Appropriating_Instagram_for_Social_Research_Three_Methods_for_Studying_Obesogenic_Environments"> (Re)-Appropriating Instagram for Social Research on Obesity</a>, Social Media + Society.</li>
   <li>Munk, A.K. & Jensen, T.E. (2014). <a target="_blank" href="https://ee.openlibhums.org/article/id/1125/">Revisiting the Histories of Mapping: Is there a future for cartographic ethnology?</a>, Ethnologia Europaea, Vol.44 #2, pp.31-47.</li>
-
   <li>Munk, A.K.(2018). <a target="_blank" href="https://www.urbanomic.com/chapter/collapse-viii-anders-kristian-munk-dice-like-and-distributed/">Dice-like and distributed</a>, Collapse, Vol.8, pp.311-360</li>
   <li>Petersen, M.K. & A.K. Munk (2013). <a target="_blank" href="https://tidsskrift.dk/fn/article/view/8142">I Vælten: Kulturanalysens Nye Hverdag</a>, Tidskriftet Kulturstudier, #1, pp.102-117.</li>
   <li>Munk, A.K. & S. Abrahamsson (2012). <a target="_blank" href="https://sciencetechnologystudies.journal.fi/article/view/55281"> Empiricist Interventions: Strategy and Tactics on the Ontopolitical Battlefield</a>, Science Studies, Vol 25 #1, pp.52-77.</li>
@@ -46,8 +45,8 @@ comments: false
 <h4>Chapters in peer reviewed books</h4>
 
 <ul>
-  <li>MUNK, A.K., KNUDSEN, A.G., JACOMY, M. (2022). <a target="_blank" href="https://journals.sagepub.com/doi/full/10.1177/20539517211069891">The Thick Machine: Anthropological AI Between Explanation and Explication</a>, Big Data & Society, 9(1).</li>
-  <li>WINTHEREIK, B. R., de NEERGÅRD, K. P., & MUNK, A. K. (2020). <a target="_blank" href="https://journals.sagepub.com/doi/full/10.1177/20539517211069891">The Thick Machine: Anthropological AI Between Explanation and Explication</a> Når virkeligheden rystes i sin grundvold – effekter af nedlukningen. Samfundøkonomen, 2020(4), 70-76.</li>
+  <li>Elgaard Jensen, T., Birkbak, A., Madsen, A.K., Munk, A.K. (2021). <a target="_blank" href="https://vbn.aau.dk/ws/portalfiles/portal/437610441/2021_PARTICIPATORY_DATA_DESIGN_Acting_in_a_Digital_World.pdf">”Participatory Data Design: Acting in a Digital World”</a>, in G. Downey & T. Zuiderent-Jerak (eds.) Making and Doing STS, MIT Press.</li>
+  <li>Munk, A. K. (2021). “Virkeliggørelser: Hvordan bruger man flerstedet etnografi til at beskrive multiple fænomener?”, in B.R. Wintereik & I. Papazu (eds.) <a target="_blank" href="https://www.djoef-forlag.dk/book-info/aktornetvaerksteori">Aktørnetværksteori i praksis</a>, Djøf Forlag.</li>
   <li>MUNK, A. K. & OLESEN, A. (2020). <a target="_blank" href="https://journals.sagepub.com/doi/full/10.1177/20539517211069891">The Thick Machine: Anthropological AI Between Explanation and Explication</a>Beyond Issue Publics: Curating a Corpus of Generic Danish Facebook Debate for Controversy Mapping, STS Encounters, vol.11, issue 1.</li>
   <li>BORCH, K., MUNK, A. K., & DAHLGAARD, V. (2020). <a target="_blank" href="https://journals.sagepub.com/doi/full/10.1177/20539517211069891">The Thick Machine: Anthropological AI Between Explanation and Explication</a>Mapping wind-power controversies on social media: Facebook as a powerful mobilizer of local resistance, Energy Policy, issue 138.</li>
 </ul>  
