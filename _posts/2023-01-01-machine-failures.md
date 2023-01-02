@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Machine failures"
-author: akm
+author: anders
 categories: [ Jekyll, tutorial ]
 image: assets/images/16.jpg
 ---
