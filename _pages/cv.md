@@ -10,12 +10,12 @@ comments: false
 <div class="col-md-8 pr-5">
 
 <p>Born 1980, Copenhagen, Denmark<br>
-<a target="_blank" href="https://vbn.aau.dk/en/persons/126983">Associate professor, DPhil, director of the Techno-Anthropology Lab</a></p>
+<a target="_blank" href="https://vbn.aau.dk/en/persons/126983">Associate professor, DPhil, Scientific Director of MASSHINE</a></p>
 
 <h4>Experience</h4>
 
 <ul>
- <li>2023-present: <b>Scientific Director of MASSHINE, The Computational Social Science & Humanities Hub</b>, SSH Faculty, Aalborg University</li>
+ <li>2023-present: <b>Scientific Director of MASSHINE</b>, The Computational Social Science & Humanities Hub, Faculty of SSH, Aalborg University</li>
   <li>2014-present: <b>Associate professor</b>, Department of Culture & Learning, Aalborg University</li>
   <li>2015-2023: <b>Director of the Techno-Anthropology Lab</b>, Department of Culture & Learning, Aalborg University</li>
   <li>2017-2022: <b>Co-founder</b>, Backscatter</li>
