@@ -15,9 +15,10 @@ comments: false
 <h4>Experience</h4>
 
 <ul>
+ <li>2023-present: <b>Scientific Director of MASSHINE, The Computational Social Science & Humanities Hub</b>, SSH Faculty, Aalborg University</li>
   <li>2014-present: <b>Associate professor</b>, Department of Culture & Learning, Aalborg University</li>
-  <li>2015-present: <b>Director of the Techno-Anthropology Lab</b>, Department of Culture & Learning, Aalborg University</li>
-  <li>2017-present: <b>Partner and co-founder</b>, Backscatter</li>
+  <li>2015-2023: <b>Director of the Techno-Anthropology Lab</b>, Department of Culture & Learning, Aalborg University</li>
+  <li>2017-2022: <b>Co-founder</b>, Backscatter</li>
   <li>2013-2015: <b>Senior visiting research fellow</b>, médialab, SciencesPo</li>
   <li>2012-2014: <b>Assistant professor</b>, Department of Culture & Learning, Aalborg University</li>
   <li>2010-2012: <b>Assistant professor</b>, Department of Management, Danish Technical University</li>
